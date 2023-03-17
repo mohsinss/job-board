@@ -1,0 +1,22 @@
+{
+  "name": "job-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsinss/job-board.git"
+  },
+  "keywords": [
+    "160160ss"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinss/job-board/issues"
+  },
+  "homepage": "https://github.com/mohsinss/job-board#readme"
+}
